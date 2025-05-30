@@ -8,7 +8,7 @@ const timeline = [
     year: 1931,
     title: 'The Beginning',
     description: 'It all started decades ago as the vision of the young and ambitious entrepreneur, Mr. Balak Ram Gupta..',
-    image: 'https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80'
+    image: 'https://oawudxprjjgsdtsvroqt.supabase.co/storage/v1/object/public/ourpeople//our%20story1.jpg'
   },
   {
     year: 1995,
